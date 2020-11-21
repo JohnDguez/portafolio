@@ -6,9 +6,9 @@ webhook_url:
 sections:
 - type: directory
   path: ''
-  label: Pages
+  label: public
   create: all
-  match: pages/*.md
+  match: public/*.md
 - type: heading
   label: Inicio
 - type: heading
