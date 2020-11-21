@@ -7,3 +7,4 @@ icon = "https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set
 link = "https://www.linkedin.com/in/johnatandguez/"
 
 +++
+Hola mi nombre es Jonhy
