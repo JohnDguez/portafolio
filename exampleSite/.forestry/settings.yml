@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: ''
+  path: inicio
   label: Inicio
   read_only: true
 - type: heading
