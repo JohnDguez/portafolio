@@ -4,9 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: inicio
-  label: Inicio
+- type: directory
+  path: ''
+  label: Test
+  create: all
+  match: "**/*"
 - type: heading
   label: Inicio
 - type: heading
