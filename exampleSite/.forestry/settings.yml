@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: ''
+  label: Inicio
+  match: "**/*"
+  read_only: true
 - type: heading
   label: Blog Post
 - type: heading
